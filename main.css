@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200;500&family=Chakra+Petch:wght@600&family=Fredoka+One&family=Gugi&family=Pushster&family=Space+Grotesk:wght@300;400;500&family=Staatliches&display=swap');
 
+::selection {
+    background: rgba(247, 100, 2, 0.925);
+    color: white;
+}
+
 * {
     margin: 0;
     padding: 0;
