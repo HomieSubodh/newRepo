@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@200;500&family=Chakra+Petch:wght@600&family=Fredoka+One&family=Gugi&family=Pushster&family=Space+Grotesk:wght@300;400;500&family=Staatliches&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #09131B;
+    color: ghostwhite;
+    font-family: 'Fredoka One', cursive;
+}
+
+p:nth-child(4) {
+    width: 50%;
+    margin: 0 auto;
+    text-align: justify;
+    background-color: rgba(255, 115, 0, 0.815);
+    padding: 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+
